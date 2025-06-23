@@ -32,3 +32,28 @@
   font-weight: 400;
   line-height: 1.5;
 }
+
+@media screen and (max-width: 1279px) and (min-width: 768px) {
+  .intro {
+    padding: 0 25px;
+  }
+
+  .intro__title {
+    line-height: 1.15;
+    font-size: 45px;
+    padding-bottom: 50px;
+    max-width: 707px;
+  }
+
+  .intro__text {
+    max-width: 720px;
+    line-height: 1.5;
+  }
+
+  .intro__text_paragraph {
+    padding-bottom: 5px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+}
