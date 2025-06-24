@@ -4,13 +4,13 @@
   justify-content: center;
 }
 
-.nav__logo {
+.header__logo {
   max-width: 255px;
   max-height: 69px;
 }
 
 @media screen and (max-width: 767px) {
-  .nav__logo {
+  .header__logo {
     max-width: 188px;
     max-height: 52px;
   }
