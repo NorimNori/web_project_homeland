@@ -5,3 +5,9 @@
 .footer__copyright {
   font-size: 14px;
 }
+
+@media screen and (max-width: 767px) {
+  .footer {
+    padding: 0 0 30px;
+  }
+}
