@@ -7,7 +7,7 @@
   background-color: #2a2c2f;
   font-family: "Inter", sans-serif, Arial;
 
-  gap: 4em;
+  gap: 3em;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -18,4 +18,10 @@
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
   -moz-text-size-adjust: 100%;
+}
+
+@media screen and (max-width: 767px) {
+  .page {
+    gap: 2em;
+  }
 }
