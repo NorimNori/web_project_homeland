@@ -129,8 +129,13 @@
     max-height: 340px;
   }
 
+  .place__website {
+    padding-left: 20px;
+  }
+
   .place__paragraph {
     font-size: 16px;
+    padding-left: 20px;
   }
 }
 
