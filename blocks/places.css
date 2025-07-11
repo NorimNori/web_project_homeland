@@ -2,6 +2,7 @@
   display: flex;
   flex-direction: column;
   gap: 80px;
+  padding: 0;
   align-items: center;
   justify-content: center;
 }
@@ -12,7 +13,7 @@
   }
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 767px) and (min-width: 544px) {
   .places {
     padding: 0 20px;
   }
