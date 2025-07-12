@@ -33,7 +33,6 @@ A futuro, me gustaría implementar las siguientes mejoras:
 - Incluir soporte para múltiples idiomas.
 - Mejorar la accesibilidad del sitio con mejores etiquetas ARIA.
 - Agregar animaciones para mejorar la experiencia del usurio.
--  Incorporar galería de todas la ciudades y una descripción de cada una.
 
 ---
 
